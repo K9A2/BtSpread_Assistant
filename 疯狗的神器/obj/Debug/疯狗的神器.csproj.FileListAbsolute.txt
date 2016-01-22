@@ -1,0 +1,9 @@
+D:\VSProjects\疯狗的神器\疯狗的神器\bin\Debug\疯狗的神器.exe.config
+D:\VSProjects\疯狗的神器\疯狗的神器\bin\Debug\疯狗的神器.exe
+D:\VSProjects\疯狗的神器\疯狗的神器\bin\Debug\疯狗的神器.pdb
+D:\VSProjects\疯狗的神器\疯狗的神器\obj\Debug\疯狗的神器.csprojResolveAssemblyReference.cache
+D:\VSProjects\疯狗的神器\疯狗的神器\obj\Debug\疯狗的神器.Form1.resources
+D:\VSProjects\疯狗的神器\疯狗的神器\obj\Debug\疯狗的神器.Properties.Resources.resources
+D:\VSProjects\疯狗的神器\疯狗的神器\obj\Debug\疯狗的神器.csproj.GenerateResource.Cache
+D:\VSProjects\疯狗的神器\疯狗的神器\obj\Debug\疯狗的神器.exe
+D:\VSProjects\疯狗的神器\疯狗的神器\obj\Debug\疯狗的神器.pdb
